@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>wf.Api</name>
+    </assembly>
+    <members>
+        <member name="M:wf.Api.Controllers.WeatherForecastController.Get(wf.Domain.Dto.ForecastRequest)">
+            <summary>
+            Get weather forecast.
+            </summary>
+            <param name="request">Forecast request with specified city and date.</param>
+            <returns>Forecast details.</returns>
+        </member>
+    </members>
+</doc>

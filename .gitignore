@@ -1,0 +1,7 @@
+*.suo
+*.user
+*.ncb
+bin
+obj
+.vs
+.idea
